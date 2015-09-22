@@ -10,7 +10,7 @@ hack that can only be used once: the null character, "\0".
 The language looks thusly:
 
 ```
-The \0quick(\0brown(fox\)\) leaped over the \0lazy(dog\0).
+The \0quick(\0brown(fox\0)\0) leaped over the \0lazy(dog\0).
 ```
 
 The `zp` function accepts a string of markup and a delegate that drives the
