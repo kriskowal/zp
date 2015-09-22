@@ -1,6 +1,6 @@
 {
   "name": "zp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-prefixed markup",
   "author": "Kris Kowal <kris@cixar.com>",
   "dependencies": {
