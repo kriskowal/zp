@@ -1,0 +1,32 @@
+{
+  "name": "zp",
+  "version": "0.0.0",
+  "description": "Zero-prefixed markup",
+  "author": "Kris Kowal <kris@cixar.com>",
+  "dependencies": {
+    "rezult": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/zp.git"
+  },
+  "keywords": [
+    "format",
+    "string"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/zp/issues"
+  },
+  "homepage": "https://github.com/kriskowal/zp"
+}
